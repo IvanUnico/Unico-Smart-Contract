@@ -1,3 +1,18 @@
+v.2.0
+
+# Unico-Smart-Contract
+
+Due to a large number of complex data structures powering our ecosystem (secondary market trades, MHN protocol, etc), we have decided to split our Smart Contract in two sub-contracts, in line with best practices. You can inspect the contracts at the following addresses: 
+
+https://ropsten.etherscan.io/address/0xa2778dcd6a69ac6a25a356c036c5014987c10415#code (Contract Source Code Verified)
+https://ropsten.etherscan.io/address/0x0d2fbe65925c624c7b023267b447de0dbb9fd49a#code (Contract Source Code Verified)
+
+We are testing all functionalities and soon as possible we’ll release a simple web interface.
+
+-----------------------------------------------
+
+v 1.0
+
 # Unico-Smart-Contract
 
 Watch our Video Explanation at https://www.youtube.com/watch?v=LoW2vLNESPw 
@@ -30,3 +45,5 @@ We are working on:
     //Add multiple HereMeNowExtension
     //Multiple Here/Me/Now sign (for example for recurring events)
     //Selling Fee: seller must have some UNI to sell
+
+Ropsten Address: https://ropsten.etherscan.io/address/0x47e8bffcee9581f8585c6b37862afa0ebfa4507a#code
