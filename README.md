@@ -1,3 +1,5 @@
+V.3.0 Move to EOS
+
 After several discussions and analyses, we have come to the conclusion that EOS is the best blockchain for UNICO. 
 
 We will deliver on EOS:
