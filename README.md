@@ -1,3 +1,16 @@
+After several discussions and analyses, we have come to the conclusion that EOS is the best blockchain for UNICO. 
+
+We will deliver on EOS:
+
+- A user-friendly CaaS (Cryptocollectibles as a Service) creation engine,
+- A decentralized marketplace for people to buy and trade cryptocollectibles related to their favorite Stars, Celebrities, or Emerging Talents.
+
+In the process, we will define and propose to the EOS community a ERC721-equivalent standard for non-fungible tokens. In addition, we will support the development of the Italian EOS community.
+
+If you want to be part of the UNICO development team and help define the EOS equivalent of ERC721, in exchange for UNI tokens, join our Telegram group (https://t.me/unicoglobal) and let us know!
+
+-----------------------------------------------
+
 v.2.0
 
 # Unico-Smart-Contract
